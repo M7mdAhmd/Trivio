@@ -1,0 +1,642 @@
+[
+    {
+      "topic": "Space",
+      "content": "There's a planet made of diamonds twice the size of Earth! The planet, 55 Cancri e, is likely covered in graphite and diamond.",
+      "iconClass": "fas fa-rocket"
+    },
+    {
+      "topic": "Ocean Life",
+      "content": "The blue whale's heart is so big that a human could swim through its arteries! The heart alone can weigh up to 1,000 pounds.",
+      "iconClass": "fas fa-fish"
+    },
+    {
+      "topic": "Human Body",
+      "content": "Your brain generates enough electricity to power a small LED light! It produces about 10-23 watts of power when you're awake.",
+      "iconClass": "fas fa-brain"
+    },
+    {
+      "topic": "Animals",
+      "content": "Octopuses have three hearts and can change color to blend into their surroundings! This camouflage helps them avoid predators.",
+      "iconClass": "fas fa-octopus"
+    },
+    {
+      "topic": "Technology",
+      "content": "The first computer 'bug' was an actual insect! In 1947, engineers removed a moth from a malfunctioning computer.",
+      "iconClass": "fas fa-laptop"
+    },
+    {
+      "topic": "History",
+      "content": "Cleopatra’s needle, an obelisk in London, is over 3,500 years old! It was a gift from Egypt in 1819.",
+      "iconClass": "fas fa-landmark"
+    },
+    {
+      "topic": "Nature",
+      "content": "A single lightning bolt could power a small town for a day! It carries about 1 billion volts of electricity.",
+      "iconClass": "fas fa-bolt"
+    },
+    {
+      "topic": "Food",
+      "content": "Honey never spoils! Archaeologists found edible honey in Egyptian tombs over 3,000 years old.",
+      "iconClass": "fas fa-jar"
+    },
+    {
+      "topic": "Space",
+      "content": "The Sun makes up 99.86% of the Solar System’s mass! Everything else is just a tiny fraction.",
+      "iconClass": "fas fa-sun"
+    },
+    {
+      "topic": "Ocean Life",
+      "content": "The shortest war in history lasted 38 minutes! It involved a squid attack on a naval ship in 1838.",
+      "iconClass": "fas fa-ship"
+    },
+    {
+      "topic": "Human Body",
+      "content": "You shed about 30,000 to 40,000 dead skin cells every minute! That’s over 50 million a day.",
+      "iconClass": "fas fa-user"
+    },
+    {
+      "topic": "Animals",
+      "content": "A group of flamingos is called a 'flamboyance'! They get their pink color from their diet.",
+      "iconClass": "fas fa-feather"
+    },
+    {
+      "topic": "Technology",
+      "content": "The internet’s first email was sent in 1971! It was a simple test message between two computers.",
+      "iconClass": "fas fa-envelope"
+    },
+    {
+      "topic": "History",
+      "content": "The Great Wall of China is over 21,000 kilometers long! It’s visible from space under the right conditions.",
+      "iconClass": "fas fa-monument"
+    },
+    {
+      "topic": "Nature",
+      "content": "The Amazon Rainforest produces 20% of the world’s oxygen! It’s often called the 'lungs of the Earth.'",
+      "iconClass": "fas fa-tree"
+    },
+    {
+      "topic": "Food",
+      "content": "Apples float in water because 25% of their volume is air! This makes them perfect for bobbing games.",
+      "iconClass": "fas fa-apple-alt"
+    },
+    {
+      "topic": "Space",
+      "content": "A day on Venus is longer than its year! It takes 243 Earth days to rotate once.",
+      "iconClass": "fas fa-globe"
+    },
+    {
+      "topic": "Ocean Life",
+      "content": "The deepest part of the ocean is nearly 11 kilometers down! It’s called the Mariana Trench.",
+      "iconClass": "fas fa-water"
+    },
+    {
+      "topic": "Human Body",
+      "content": "Your stomach acid could dissolve metal! It has a pH as low as 1.5.",
+      "iconClass": "fas fa-heartbeat"
+    },
+    {
+      "topic": "Animals",
+      "content": "Sloths can hold their breath longer than dolphins! They can stay underwater for up to 40 minutes.",
+      "iconClass": "fas fa-paw"
+    },
+    {
+      "topic": "Technology",
+      "content": "The first computer mouse was made of wood! It was invented by Douglas Engelbart in 1964.",
+      "iconClass": "fas fa-mouse"
+    },
+    {
+      "topic": "History",
+      "content": "The shortest war in history lasted 38 minutes! It occurred in 1896 in Zanzibar.",
+      "iconClass": "fas fa-hourglass"
+    },
+    {
+      "topic": "Nature",
+      "content": "Mount Everest grows about 4mm every year! Tectonic plates keep pushing it upward.",
+      "iconClass": "fas fa-mountain"
+    },
+    {
+      "topic": "Food",
+      "content": "Chocolate was once used as currency! The Aztecs traded cocoa beans for goods.",
+      "iconClass": "fas fa-cookie"
+    },
+    {
+      "topic": "Space",
+      "content": "There’s a cloud of alcohol in space! It’s 1,000 times larger than our Solar System.",
+      "iconClass": "fas fa-star"
+    },
+    {
+      "topic": "Ocean Life",
+      "content": "Sharks have an acute sense of smell! They can detect blood in the water from miles away.",
+      "iconClass": "fas fa-shark"
+    },
+    {
+      "topic": "Human Body",
+      "content": "Your nose can remember 50,000 different scents! It’s a powerful memory tool.",
+      "iconClass": "fas fa-head-side-cough"
+    },
+    {
+      "topic": "Animals",
+      "content": "Penguins can jump up to 6 feet in the air! They use this to leap out of the water.",
+      "iconClass": "fas fa-dove"
+    },
+    {
+      "topic": "Technology",
+      "content": "The first video game was created in 1958! It was called 'Tennis for Two.'",
+      "iconClass": "fas fa-gamepad"
+    },
+    {
+      "topic": "History",
+      "content": "The shortest war in history lasted 38 minutes! It happened in 1896 in Zanzibar.",
+      "iconClass": "fas fa-clock"
+    },
+    {
+      "topic": "Nature",
+      "content": "The Sahara Desert was once a lush forest! It transformed about 6,000 years ago.",
+      "iconClass": "fas fa-leaf"
+    },
+    {
+      "topic": "Food",
+      "content": "Carrots were originally purple or yellow! Orange carrots were bred in the 16th century.",
+      "iconClass": "fas fa-carrot"
+    },
+    {
+      "topic": "Space",
+      "content": "Saturn’s rings are made of ice and rock! They could disappear in 100 million years.",
+      "iconClass": "fas fa-ring"
+    },
+    {
+      "topic": "Ocean Life",
+      "content": "Jellyfish have no heart or brain! They’ve survived for over 500 million years.",
+      "iconClass": "fas fa-water"
+    },
+    {
+      "topic": "Human Body",
+      "content": "Your bones are stronger than concrete! Ounce for ounce, they can bear more weight.",
+      "iconClass": "fas fa-bone"
+    },
+    {
+      "topic": "Animals",
+      "content": "A cheetah can go from 0 to 60 mph in 3 seconds! It’s the fastest land animal.",
+      "iconClass": "fas fa-cat"
+    },
+    {
+      "topic": "Technology",
+      "content": "The first smartphone was released in 1992! It was called the IBM Simon.",
+      "iconClass": "fas fa-mobile-alt"
+    },
+    {
+      "topic": "History",
+      "content": "The Eiffel Tower was almost built in Barcelona! Paris won the bid in 1889.",
+      "iconClass": "fas fa-tower"
+    },
+    {
+      "topic": "Nature",
+      "content": "A single tree can absorb 48 pounds of CO2 per year! It’s a natural air purifier.",
+      "iconClass": "fas fa-tree"
+    },
+    {
+      "topic": "Food",
+      "content": "Pineapples take two years to grow! They’re worth the wait for their sweet taste.",
+      "iconClass": "fas fa-fruit"
+    },
+    {
+      "topic": "Space",
+      "content": "The Moon is drifting away from Earth! It moves about 3.8 cm farther each year.",
+      "iconClass": "fas fa-moon"
+    },
+    {
+      "topic": "Ocean Life",
+      "content": "Coral reefs are animals, not plants! They’re built by tiny creatures called polyps.",
+      "iconClass": "fas fa-fish"
+    },
+    {
+      "topic": "Human Body",
+      "content": "You have about 0.2 milligrams of gold in your body! Most of it is in your blood.",
+      "iconClass": "fas fa-vial"
+    },
+    {
+      "topic": "Animals",
+      "content": "Elephants never forget! They have one of the best memories in the animal kingdom.",
+      "iconClass": "fas fa-elephant"
+    },
+    {
+      "topic": "Technology",
+      "content": "The first webcam watched a coffee pot! It was set up in 1991 at Cambridge University.",
+      "iconClass": "fas fa-camera"
+    },
+    {
+      "topic": "History",
+      "content": "The pyramids were built with over 2 million stone blocks! Each weighs about 2.5 tons.",
+      "iconClass": "fas fa-pyramid"
+    },
+    {
+      "topic": "Nature",
+      "content": "The shortest river in the world is 118 feet long! It’s the Roe River in Montana.",
+      "iconClass": "fas fa-water"
+    },
+    {
+      "topic": "Food",
+      "content": "A single coffee plant produces 1 pound of coffee per year! It takes 5 years to mature.",
+      "iconClass": "fas fa-coffee"
+    },
+    {
+      "topic": "Space",
+      "content": "A teaspoon of a neutron star weighs 6 billion tons! It’s incredibly dense.",
+      "iconClass": "fas fa-star"
+    },
+    {
+      "topic": "Ocean Life",
+      "content": "The clownfish can change gender! If the female dies, a male takes her place.",
+      "iconClass": "fas fa-fish"
+    },
+    {
+      "topic": "Human Body",
+      "content": "Your tongue has 8,000 taste buds! They regenerate every two weeks.",
+      "iconClass": "fas fa-tongue"
+    },
+    {
+      "topic": "Animals",
+      "content": "Owls can rotate their heads 270 degrees! Their eyes don’t move, so their neck does the work.",
+      "iconClass": "fas fa-owl"
+    },
+    {
+      "topic": "Technology",
+      "content": "The first hard drive held 5 MB of data! It was the size of a refrigerator in 1956.",
+      "iconClass": "fas fa-hdd"
+    },
+    {
+      "topic": "History",
+      "content": "The oldest known recipe is for beer! It dates back 5,000 years to Mesopotamia.",
+      "iconClass": "fas fa-beer"
+    },
+    {
+      "topic": "Nature",
+      "content": "The largest flower in the world smells like rotting flesh! The corpse flower attracts flies for pollination.",
+      "iconClass": "fas fa-flower"
+    },
+    {
+      "topic": "Food",
+      "content": "Tomatoes were once thought to be poisonous! They were decorative plants in the 1500s.",
+      "iconClass": "fas fa-tomato"
+    },
+    {
+      "topic": "Space",
+      "content": "There’s a volcano on Mars three times taller than Everest! Olympus Mons is 22 km high.",
+      "iconClass": "fas fa-volcano"
+    },
+    {
+      "topic": "Ocean Life",
+      "content": "The sea cucumber can eject its organs to escape predators! They regrow them later.",
+      "iconClass": "fas fa-water"
+    },
+    {
+      "topic": "Human Body",
+      "content": "Your body has enough iron to make a 3-inch nail! It’s mostly in your blood.",
+      "iconClass": "fas fa-tools"
+    },
+    {
+      "topic": "Animals",
+      "content": "A hummingbird’s heart beats up to 1,260 times per minute! It’s the fastest of any bird.",
+      "iconClass": "fas fa-dove"
+    },
+    {
+      "topic": "Technology",
+      "content": "The first website is still online! It was created by Tim Berners-Lee in 1991.",
+      "iconClass": "fas fa-globe"
+    },
+    {
+      "topic": "History",
+      "content": "The shortest war in history lasted 38 minutes! It occurred in Zanzibar in 1896.",
+      "iconClass": "fas fa-clock"
+    },
+    {
+      "topic": "Nature",
+      "content": "The largest desert isn’t sandy—it’s icy! Antarctica is classified as a cold desert.",
+      "iconClass": "fas fa-snowflake"
+    },
+    {
+      "topic": "Food",
+      "content": "Cucumbers can fight bad breath! A slice on your tongue freshens your mouth.",
+      "iconClass": "fas fa-leaf"
+    },
+    {
+      "topic": "Space",
+      "content": "Jupiter’s Great Red Spot is a storm twice Earth’s size! It’s raged for over 300 years.",
+      "iconClass": "fas fa-cloud"
+    },
+    {
+      "topic": "Ocean Life",
+      "content": "The mantis shrimp can punch with the force of a bullet! It’s one of the ocean’s strongest creatures.",
+      "iconClass": "fas fa-fist"
+    },
+    {
+      "topic": "Human Body",
+      "content": "You produce enough saliva to fill two swimming pools in your lifetime! That’s about 25,000 quarts.",
+      "iconClass": "fas fa-tint"
+    },
+    {
+      "topic": "Animals",
+      "content": "A kangaroo can’t walk backward! Its legs are built for hopping forward.",
+      "iconClass": "fas fa-kangaroo"
+    },
+    {
+      "topic": "Technology",
+      "content": "The first CD could hold 74 minutes of music! It was designed to fit Beethoven’s 9th Symphony.",
+      "iconClass": "fas fa-compact-disc"
+    },
+    {
+      "topic": "History",
+      "content": "The shortest war in history lasted 38 minutes! It took place in 1896 in Zanzibar.",
+      "iconClass": "fas fa-hourglass"
+    },
+    {
+      "topic": "Nature",
+      "content": "The longest recorded earthquake lasted 10 minutes! It struck Indonesia in 2004.",
+      "iconClass": "fas fa-wave"
+    },
+    {
+      "topic": "Food",
+      "content": "Bananas are berries, but strawberries aren’t! Botanically, it’s all about the seeds.",
+      "iconClass": "fas fa-banana"
+    },
+    {
+      "topic": "Space",
+      "content": "The universe is expanding faster every day! It’s been stretching since the Big Bang.",
+      "iconClass": "fas fa-expand"
+    },
+    {
+      "topic": "Ocean Life",
+      "content": "The immortal jellyfish can revert to its juvenile form! It potentially lives forever.",
+      "iconClass": "fas fa-water"
+    },
+    {
+      "topic": "Human Body",
+      "content": "Your fingernails grow faster than your toenails! They grow about 3.5 mm per month.",
+      "iconClass": "fas fa-hand"
+    },
+    {
+      "topic": "Animals",
+      "content": "A group of crows is called a murder! They’re known for their intelligence.",
+      "iconClass": "fas fa-crow"
+    },
+    {
+      "topic": "Technology",
+      "content": "The first Apple logo showed Isaac Newton! It was replaced with the bitten apple in 1977.",
+      "iconClass": "fas fa-apple"
+    },
+    {
+      "topic": "History",
+      "content": "The first Olympic Games had only one event! It was a 192-meter footrace in 776 BC.",
+      "iconClass": "fas fa-medal"
+    },
+    {
+      "topic": "Nature",
+      "content": "The hottest place on Earth hit 134°F! Death Valley holds the record from 1913.",
+      "iconClass": "fas fa-thermometer"
+    },
+    {
+      "topic": "Food",
+      "content": "Cheese is the most stolen food in the world! It’s swiped more than any other grocery item.",
+      "iconClass": "fas fa-cheese"
+    },
+    {
+      "topic": "Space",
+      "content": "Black holes can ‘sing’! They emit low-frequency vibrations detected by scientists.",
+      "iconClass": "fas fa-circle"
+    },
+    {
+      "topic": "Ocean Life",
+      "content": "The giant squid has eyes the size of basketballs! They help it see in the deep ocean.",
+      "iconClass": "fas fa-eye"
+    },
+    {
+      "topic": "Human Body",
+      "content": "Your heart beats 100,000 times a day! That’s over 35 million times a year.",
+      "iconClass": "fas fa-heart"
+    },
+    {
+      "topic": "Animals",
+      "content": "Bats are the only mammals that can fly! Their wings are made of thin skin.",
+      "iconClass": "fas fa-bat"
+    },
+    {
+      "topic": "Technology",
+      "content": "The first TV remote was called 'Lazy Bones'! It was wired to the TV in 1950.",
+      "iconClass": "fas fa-tv"
+    },
+    {
+      "topic": "History",
+      "content": "The shortest war in history lasted 38 minutes! It occurred in Zanzibar in 1896.",
+      "iconClass": "fas fa-clock"
+    },
+    {
+      "topic": "Nature",
+      "content": "The fastest wind ever recorded was 253 mph! It hit Australia during a cyclone in 1996.",
+      "iconClass": "fas fa-wind"
+    },
+    {
+      "topic": "Food",
+      "content": "Watermelons are 92% water! They’re a refreshing fruit and vegetable combo.",
+      "iconClass": "fas fa-watermelon"
+    },
+    {
+      "topic": "Space",
+      "content": "The coldest place in the universe is -454°F! It’s in the Boomerang Nebula.",
+      "iconClass": "fas fa-snowflake"
+    },
+    {
+      "topic": "Ocean Life",
+      "content": "Dolphins sleep with one eye open! They rest half their brain at a time.",
+      "iconClass": "fas fa-dolphin"
+    },
+    {
+      "topic": "Human Body",
+      "content": "Your liver can regrow itself! It’s the only organ that can fully regenerate.",
+      "iconClass": "fas fa-liver"
+    },
+    {
+      "topic": "Animals",
+      "content": "A snail can sleep for three years! It enters a deep hibernation state.",
+      "iconClass": "fas fa-snail"
+    },
+    {
+      "topic": "Technology",
+      "content": "The first ATM dispensed cash in 1967! It was installed in London.",
+      "iconClass": "fas fa-money-bill"
+    },
+    {
+      "topic": "History",
+      "content": "The shortest war in history lasted 38 minutes! It occurred in Zanzibar in 1896.",
+      "iconClass": "fas fa-hourglass"
+    },
+    {
+      "topic": "Nature",
+      "content": "The deepest cave in the world is 7,208 feet deep! It’s Krubera Cave in Georgia.",
+      "iconClass": "fas fa-cave"
+    },
+    {
+      "topic": "Food",
+      "content": "Potatoes were the first food grown in space! They were cultivated in 1995.",
+      "iconClass": "fas fa-potato"
+    },
+    {
+      "topic": "Space",
+      "content": "The Milky Way has 200 billion stars! Our galaxy is just one of trillions.",
+      "iconClass": "fas fa-galaxy"
+    },
+    {
+      "topic": "Ocean Life",
+      "content": "The electric eel can generate 600 volts! It uses this to stun prey.",
+      "iconClass": "fas fa-bolt"
+    },
+    {
+      "topic": "Human Body",
+      "content": "Your ears never stop growing! They get slightly larger as you age.",
+      "iconClass": "fas fa-ear"
+    },
+    {
+      "topic": "Animals",
+      "content": "A giraffe’s tongue is 18 inches long! It’s purple and helps them grab leaves.",
+      "iconClass": "fas fa-giraffe"
+    },
+    {
+      "topic": "Technology",
+      "content": "The first barcode was scanned in 1974! It was on a pack of gum.",
+      "iconClass": "fas fa-barcode"
+    },
+    {
+      "topic": "History",
+      "content": "The shortest war in history lasted 38 minutes! It happened in Zanzibar in 1896.",
+      "iconClass": "fas fa-clock"
+    },
+    {
+      "topic": "Nature",
+      "content": "The tallest tree in the world is 379 feet high! It’s a redwood named Hyperion.",
+      "iconClass": "fas fa-tree"
+    },
+    {
+      "topic": "Food",
+      "content": "Avocados are poisonous to birds! The pit and skin contain a toxin called persin.",
+      "iconClass": "fas fa-avocado"
+    },
+    {
+      "topic": "Space",
+      "content": "Pluto was discovered in 1930! It’s smaller than Earth’s Moon.",
+      "iconClass": "fas fa-planet"
+    },
+    {
+      "topic": "Ocean Life",
+      "content": "The starfish can regrow its arms! Some species can even regrow a whole body.",
+      "iconClass": "fas fa-starfish"
+    },
+    {
+      "topic": "Human Body",
+      "content": "You blink about 20 times a minute! That’s over 10 million times a year.",
+      "iconClass": "fas fa-eye"
+    },
+    {
+      "topic": "Animals",
+      "content": "A lion’s roar can be heard 5 miles away! It’s one of the loudest animal sounds.",
+      "iconClass": "fas fa-lion"
+    },
+    {
+      "topic": "Technology",
+      "content": "The first Google server was built with LEGO! It housed 10 hard drives in 1996.",
+      "iconClass": "fas fa-server"
+    },
+    {
+      "topic": "History",
+      "content": "The shortest war in history lasted 38 minutes! It occurred in Zanzibar in 1896.",
+      "iconClass": "fas fa-hourglass"
+    },
+    {
+      "topic": "Nature",
+      "content": "The shortest war in history lasted 38 minutes! It occurred in Zanzibar in 1896.",
+      "iconClass": "fas fa-clock"
+    },
+    {
+      "topic": "Food",
+      "content": "Pumpkins are 90% water! They’re technically a fruit, not a vegetable.",
+      "iconClass": "fas fa-pumpkin"
+    },
+    {
+      "topic": "Space",
+      "content": "The Sun will eventually swallow Earth! In 5 billion years, it’ll expand into a red giant.",
+      "iconClass": "fas fa-sun"
+    },
+    {
+      "topic": "Ocean Life",
+      "content": "The anglerfish uses a glowing lure to catch prey! It lives in the deep sea.",
+      "iconClass": "fas fa-fish"
+    },
+    {
+      "topic": "Human Body",
+      "content": "Your blood vessels could circle the Earth twice! They stretch over 60,000 miles.",
+      "iconClass": "fas fa-veins"
+    },
+    {
+      "topic": "Animals",
+      "content": "A camel can drink 30 gallons of water in 13 minutes! It’s built for desert life.",
+      "iconClass": "fas fa-camel"
+    },
+    {
+      "topic": "Technology",
+      "content": "The first digital camera took 23 seconds to snap a photo! It was invented in 1975.",
+      "iconClass": "fas fa-camera-retro"
+    },
+    {
+      "topic": "History",
+      "content": "The shortest war in history lasted 38 minutes! It occurred in Zanzibar in 1896.",
+      "iconClass": "fas fa-clock"
+    },
+    {
+      "topic": "Nature",
+      "content": "The loudest natural sound was a volcanic eruption! Krakatoa’s blast in 1883 was heard 3,000 miles away.",
+      "iconClass": "fas fa-volcano"
+    },
+    {
+      "topic": "Food",
+      "content": "Peanuts aren’t nuts—they’re legumes! They grow underground like beans.",
+      "iconClass": "fas fa-peanut"
+    },
+    {
+      "topic": "Space",
+      "content": "The shortest war in history lasted 38 minutes! It occurred in Zanzibar in 1896.",
+      "iconClass": "fas fa-clock"
+    },
+    {
+      "topic": "Ocean Life",
+      "content": "The octopus has a beak like a parrot! It’s the only hard part of its body.",
+      "iconClass": "fas fa-octopus"
+    },
+    {
+      "topic": "Human Body",
+      "content": "Your body has more bacteria than human cells! They outnumber us 10 to 1.",
+      "iconClass": "fas fa-microscope"
+    },
+    {
+      "topic": "Animals",
+      "content": "A blue whale’s tongue weighs as much as an elephant! It’s about 5,000 pounds.",
+      "iconClass": "fas fa-whale"
+    },
+    {
+      "topic": "Technology",
+      "content": "The first text message said 'Merry Christmas'! It was sent in 1992.",
+      "iconClass": "fas fa-sms"
+    },
+    {
+      "topic": "History",
+      "content": "The shortest war in history lasted 38 minutes! It occurred in Zanzibar in 1896.",
+      "iconClass": "fas fa-hourglass"
+    },
+    {
+      "topic": "Nature",
+      "content": "The driest place on Earth hasn’t seen rain in 400 years! It’s the Atacama Desert.",
+      "iconClass": "fas fa-sun"
+    },
+    {
+      "topic": "Food",
+      "content": "Ketchup was sold as medicine in the 1830s! It was marketed as a cure for indigestion.",
+      "iconClass": "fas fa-bottle"
+    }
+  ]

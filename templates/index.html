@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Trivio</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+  <link rel="icon" href="{{ url_for('static', filename='media/icon.png') }}">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/js/all.min.js"></script>
+</head>
+<body>
+  <div class="container">
+    <div class="header">
+      <h1 class="title">Amazing Facts</h1>
+      <p class="subtitle">Click the card to discover fascinating facts!</p>
+    </div>
+    <div class="card-container" id="card-container">
+      <div class="card" id="card"></div>
+    </div>
+    <button id="next-button" class="next-button">Next Fact</button>
+  </div>
+  <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>
